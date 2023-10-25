@@ -38,7 +38,7 @@
  * Don't forget to set this to false in production!
  * @const
  */
-var DEBUG = false;
+var DEBUG = true;
 
 function noop() {}
 
